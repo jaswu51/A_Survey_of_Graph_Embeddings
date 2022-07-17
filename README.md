@@ -9,5 +9,5 @@ Book: Graph Representation Learning, William L. Hamilton\
 https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf
 
 pytorch-geometric tutorial:\
-https://pytorch-geometric.readthedocs.io/en/latest/notes/introduction.html\
+https://pytorch-geometric.readthedocs.io/en/latest/notes/introduction.html
 typical commands:\
