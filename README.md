@@ -1,4 +1,4 @@
-# Graph Neural Network
+# Graph Embeddings
 
 Work: \
 Survey: BDS_SurveyOfGraphEmbedding_YiWu_ZhiyangGuo.pdf\
