@@ -43,8 +43,19 @@ The decoder tries to rebuild the ajacency matrix via the hidden vectors' dot pro
 
 ### Doc2Vec
 
-In the doc2vec network, apart from the inout words, the whole document will be also be treated as one of the inputs in the word prediction.
+In the doc2vec network, apart from the inout words, the whole document will be also be treated as one of the inputs in the word prediction, and it means the context of the word.
+
 <img width="728" alt="Screenshot 2023-01-18 at 14 00 36" src="https://user-images.githubusercontent.com/91216581/213178215-2cc39ce0-4336-4eca-a83f-11c7e246d516.png">
+
+### Graph2Vec
+
+References: https://www.youtube.com/watch?v=h400_OMWNLo
+
+Paper: https://arxiv.org/pdf/1707.05005.pdf
+
+Idea: The input is a sequence of subgraphs. The network will embedd both nodes and graphs into same dimension vectors, and the goal is to maximize the possibility that a node belongs to a certain subgraph.
+
+<img width="1220" alt="Screenshot 2023-01-18 at 14 25 49" src="https://user-images.githubusercontent.com/91216581/213183282-0b80ca62-9fdb-4f69-bb18-06bc0a0d67d8.png">
 
 
 
