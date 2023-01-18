@@ -3,6 +3,9 @@
 ### Graph Auto Encoder(GAE)
 Let's first talk about the node-level-embedding GAE structure.
 
+![image](https://user-images.githubusercontent.com/91216581/213168754-b2bb59b0-32b0-4ec2-a57f-7af3fec10cc4.png)
+
+
 
 #### Encoder
 The encoder is a GCN module, where input is the feature vectors of the node and the adjacency matrix. The output is the embedded vector in the hidden space.
