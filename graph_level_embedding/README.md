@@ -43,7 +43,7 @@ The decoder tries to rebuild the ajacency matrix via the hidden vectors' dot pro
 
 ### Doc2Vec
 
-In the doc2vec network, the whole document will be also be treated as one of the inputs in the word prediction.
+In the doc2vec network, apart from the inout words, the whole document will be also be treated as one of the inputs in the word prediction.
 <img width="728" alt="Screenshot 2023-01-18 at 14 00 36" src="https://user-images.githubusercontent.com/91216581/213178215-2cc39ce0-4336-4eca-a83f-11c7e246d516.png">
 
 
