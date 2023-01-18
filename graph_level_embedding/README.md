@@ -1,6 +1,6 @@
 # papers and algorithms
 
-### Granph Auto Encoder(GAE)
+### Graph Auto Encoder(GAE)
 Let's first talk about the node-level-embedding GAE structure.
 
 
