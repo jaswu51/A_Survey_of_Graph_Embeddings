@@ -1,6 +1,6 @@
 # papers and algorithms
 
-### Graph Auto Encoder(GAE)
+## Graph Auto Encoder(GAE)
 Let's first talk about the node-level-embedding GAE structure.
 
 ![image](https://user-images.githubusercontent.com/91216581/213168754-b2bb59b0-32b0-4ec2-a57f-7af3fec10cc4.png)
@@ -25,3 +25,18 @@ The decoder tries to rebuild the ajacency matrix via the hidden vectors' dot pro
 
 
 ![Alt text](https://img-blog.csdnimg.cn/20200603145944227.png#pic_center)
+
+
+## Graph2Vec
+
+### Word2Vec
+
+#### CBOW
+
+<img width="1135" alt="Screenshot 2023-01-18 at 13 32 23" src="https://user-images.githubusercontent.com/91216581/213172527-aaa5149e-8c3e-4902-8e92-1c47674464aa.png">
+
+
+#### SkipGram
+
+<img width="1135" alt="Screenshot 2023-01-18 at 13 34 06" src="https://user-images.githubusercontent.com/91216581/213172647-dd91e3a9-9d5b-413f-971a-a7cc479be090.png">
+
