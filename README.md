@@ -1,13 +1,5 @@
 # Graph Embeddings
 
-Summer School Work: \
-Survey: BDS_SurveyOfGraphEmbedding_YiWu_ZhiyangGuo.pdf\
-It has summerized the recent works of matrix factorization-based, deep learning-based, and random walk-based graph embedding method.
+A Survey: BDS_SurveyOfGraphEmbedding_YiWu_ZhiyangGuo.pdf [link](https://github.com/jaswu51/A_Survey_of_Graph_Embeddings/blob/main/BDS_SurveyOfGraphEmbedding_YiWu_%26ZhiyangGuo.pdf)
 
-Userful links:\
-Book: Graph Representation Learning, William L. Hamilton\
-https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf
 
-pytorch-geometric tutorial:\
-https://pytorch-geometric.readthedocs.io/en/latest/notes/introduction.html
-typical commands:\
